@@ -4,4 +4,6 @@ like
 handsomeboy
 123123132
 retome test
+<<<<<<< HEAD
 no,this is master wirte
+
